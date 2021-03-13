@@ -619,3 +619,8 @@ footer .copyright p {
     width: 90%;
   }
 }
+
+.navbar .navbar-toggler {
+  background-color: transparent;
+  border: none;
+}
