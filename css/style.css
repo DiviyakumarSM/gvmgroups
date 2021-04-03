@@ -325,17 +325,18 @@ header .carousel-control-prev {
   width: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(255, 226, 91, 0.91);
+  background-color: #2e7fb4;
   opacity: 0;
 }
 
 .project .col-lg-4 > div .yellow-overlay p {
   text-align: center;
-  font-size: 25px;
+  font-size: 16px;
 }
 
 .project .col-lg-4 > div:hover .yellow-overlay {
   opacity: 1;
+  color: #fff;
 }
 
 .project .yellow-overlay {
@@ -623,4 +624,13 @@ footer .copyright p {
 .navbar .navbar-toggler {
   background-color: transparent;
   border: none;
+}
+
+.justify {
+  text-align: justify !important;
+}
+
+.align-center {
+  text-align: center !important;
+  margin-bottom: 20px;
 }
