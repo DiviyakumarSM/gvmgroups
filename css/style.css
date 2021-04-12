@@ -634,3 +634,7 @@ footer .copyright p {
   text-align: center !important;
   margin-bottom: 20px;
 }
+
+.text-white {
+  color: whitesmoke !important;
+}
